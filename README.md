@@ -6,23 +6,19 @@ This project demonstrates the admin portal of KarachiMotorShowroom. (ASP.NET, Aj
 ## Getting Started
 
 <p align="center">
-  <p>Step01</p>
+  <p>LogIn Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/1.png" width="800"><br>
-  <p>Step02</p>
+  <p>Home Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/2.PNG" width="750"><br>
-  <p>Step03</p>
+  <p>Add Record Page01</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/3.png" width="750"><br>
-  <p>Step04</p>
+  <p>Add Record Page02</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/4.PNG" width="750"><br>
-  <p>Step05</p>
+  <p>Update Record Page01</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/5.PNG" width="800"><br>
-  <p>Step06</p>
+  <p>Update Record Page02</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/6.PNG" width="800">
-  <p>Step07</p>
-  <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/7.png" width="800">
-  <p>Step08</p>
-  <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/8.PNG" width="800">
-  <p>Step09</p>
+  <p>Delete Record Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/9.PNG" width="800">
 </p>
 <br>
