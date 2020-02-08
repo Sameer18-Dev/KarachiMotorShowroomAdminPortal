@@ -14,9 +14,9 @@ This project demonstrates the admin portal of KarachiMotorShowroom. (ASP.NET, Aj
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/3.png" width="750"><br>
   <p>Add Record Page02</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/4.PNG" width="750"><br>
-  <p>Update Record Page01</p>
+  <p>View Record Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/5.PNG" width="800"><br>
-  <p>Update Record Page02</p>
+  <p>Update Record Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/6.PNG" width="800">
   <p>Delete Record Page</p>
   <img src="https://github.com/Sameer18-Dev/KarachiMotorShowroomAdminPortal/blob/master/VehicleRegManagementSystem/Images/9.PNG" width="800">
